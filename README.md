@@ -6,7 +6,7 @@ Selamat datang di repositori proyek Dasboard persebaran jumlah pengangguran di I
 ![Dashboard Jumlah Pengangguran di Indonesia 2020-2021](https://github.com/user-attachments/assets/801ef106-cac3-4ff2-88c2-4da39d1e222c)
 
 # Project Overview:
-• Tujuan: Mengubah data penjualan mentah menjadi wawasan yang dapat ditindaklanjuti.
+• Tujuan: Mengubah data mentah menjadi wawasan yang dapat ditindaklanjuti.
 
 • Software: Microsoft Excel
 
