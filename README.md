@@ -7,23 +7,35 @@ Selamat datang di repositori proyek Dasboard persebaran jumlah pengangguran di I
 
 # Project Overview:
 • Tujuan: Mengubah data penjualan mentah menjadi wawasan yang dapat ditindaklanjuti.
+
 • Software: Microsoft Excel
+
 • Skills: Data analysis, visualization, dashboard design.
 
 # Features:
-• Analisis Tren Jumlah Pengangguran dari Waktu ke Waktu
-• Distribusi Pengangguran Berdasarkan Provinsi
+• Analisis Tren Jumlah Pengangguran dari Waktu ke Waktu          
+
+• Distribusi Pengangguran Berdasarkan Provinsi        
+
 • Perbandingan Angkatan Kerja dan Pengangguran
+
 • Visualisasi Jumlah Angkatan Kerja Berdasarkan Provinsi
+
 • Analisis Berdasarkan Bulan
+
 • Filter Berdasarkan Provinsi
+
 • Persentase Perubahan Tahun ke Tahun
+
 • Identifikasi Wilayah dengan Tingkat Tinggi dan Rendah
 
 # Findings:
 • Tingkat pengangguran di setiap provinsi bersifat turun-naik atau fluktuasi.  
+
 • Semakin tinggi jumlah angkatan kerja pada suatu provinsi, akan menyebabkan jumlah pengangguran yang tinggi juga. 
+
 • Rata-rata provinsi dengan jumlah pengangguran yang tinggi justru merupakan provinsi yang memiliki aktivitas ekonomi yang pesat, seperti Jawa Barat, Jawa Tengah, Jawa Timur, Banten, dan DKI Jakarta. 
+
 • Rata-rata provinsi dengan jumlah pengangguran yang rendah merupakan provinsi yang memiliki aktivitas ekonomi yang kurang pesat, seperti Sulawesi Barat, Kalimantan Utara, dan Gorontalo. 
 
 # Tags:
